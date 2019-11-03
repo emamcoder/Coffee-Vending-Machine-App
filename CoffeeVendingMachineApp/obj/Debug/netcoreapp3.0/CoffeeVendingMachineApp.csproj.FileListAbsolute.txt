@@ -1,0 +1,13 @@
+C:\Users\emamc\source\repos\CoffeeVendingMachineApp\CoffeeVendingMachineApp\bin\Debug\netcoreapp3.0\CoffeeVendingMachineApp.exe
+C:\Users\emamc\source\repos\CoffeeVendingMachineApp\CoffeeVendingMachineApp\bin\Debug\netcoreapp3.0\CoffeeVendingMachineApp.deps.json
+C:\Users\emamc\source\repos\CoffeeVendingMachineApp\CoffeeVendingMachineApp\bin\Debug\netcoreapp3.0\CoffeeVendingMachineApp.runtimeconfig.json
+C:\Users\emamc\source\repos\CoffeeVendingMachineApp\CoffeeVendingMachineApp\bin\Debug\netcoreapp3.0\CoffeeVendingMachineApp.runtimeconfig.dev.json
+C:\Users\emamc\source\repos\CoffeeVendingMachineApp\CoffeeVendingMachineApp\bin\Debug\netcoreapp3.0\CoffeeVendingMachineApp.dll
+C:\Users\emamc\source\repos\CoffeeVendingMachineApp\CoffeeVendingMachineApp\bin\Debug\netcoreapp3.0\CoffeeVendingMachineApp.pdb
+C:\Users\emamc\source\repos\CoffeeVendingMachineApp\CoffeeVendingMachineApp\obj\Debug\netcoreapp3.0\CoffeeVendingMachineApp.csprojAssemblyReference.cache
+C:\Users\emamc\source\repos\CoffeeVendingMachineApp\CoffeeVendingMachineApp\obj\Debug\netcoreapp3.0\CoffeeVendingMachineApp.AssemblyInfoInputs.cache
+C:\Users\emamc\source\repos\CoffeeVendingMachineApp\CoffeeVendingMachineApp\obj\Debug\netcoreapp3.0\CoffeeVendingMachineApp.AssemblyInfo.cs
+C:\Users\emamc\source\repos\CoffeeVendingMachineApp\CoffeeVendingMachineApp\obj\Debug\netcoreapp3.0\CoffeeVendingMachineApp.dll
+C:\Users\emamc\source\repos\CoffeeVendingMachineApp\CoffeeVendingMachineApp\obj\Debug\netcoreapp3.0\CoffeeVendingMachineApp.pdb
+C:\Users\emamc\source\repos\CoffeeVendingMachineApp\CoffeeVendingMachineApp\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\emamc\source\repos\CoffeeVendingMachineApp\CoffeeVendingMachineApp\obj\Debug\netcoreapp3.0\CoffeeVendingMachineApp.csproj.CopyComplete

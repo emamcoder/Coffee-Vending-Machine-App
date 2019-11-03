@@ -1,0 +1,12 @@
+{
+  "VendingMachineConfig": {
+    "MenuOptions": {
+      "Latte": 2,
+      "Cappuinno": 3,
+      "Irish": 4,
+      "Expresso": 2
+    },
+    "AvailableChange": 1
+  }
+
+}
