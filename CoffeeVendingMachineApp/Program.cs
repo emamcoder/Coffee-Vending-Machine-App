@@ -12,7 +12,6 @@ namespace CoffeeVendingMachineApp
             AppSettings.LoadJson();
             while (true)
             {
-                CoffeeVendingMachine.GetItem(1, 2);
                 Console.WriteLine("Please select the item from list\nPLease let me know, which number of item would you like to have.");
                 CoffeeVendingMachine.PrintCoffeeItems();
                 int userInput = int.Parse(Console.ReadLine());
